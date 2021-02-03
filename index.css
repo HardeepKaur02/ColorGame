@@ -29,12 +29,15 @@
 button{
   background-color: hotpink;
   color: red;
-  height:7.5vh;
+  height:10.5vh;
   width: 100%;
+  font-weight: bold;
+  font-size: x-large;
+  font-family: "Bradley Hand ITC" , Arial, Helvetica, sans-serif;
 }
 #num_try{
   height: 7.5vh;
-  font-family: "Bradley Hand ITC";
+  font-family: "Bradley Hand ITC", Arial, Helvetica, sans-serif;
   background-color: #ff0025;
   font-size: x-large;
   font-weight: bold;
