@@ -5,7 +5,7 @@
 
 #header {
   background-color: lightpink;
-  height: 30vh;
+  height: 20vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -14,14 +14,31 @@
 
 #container {
   background-color: black;
-  height: 70vh;
+  height: 65vh;
   display: flex;
+  flex-flow: row wrap;
   justify-content: space-evenly;
   align-items: center;
 }
 
 .tile {
-  height: 200px;
-  width: 200px;
+  height: 27vh;
+  width: 27%;
   background-color: aliceblue;
+}
+button{
+  background-color: hotpink;
+  color: red;
+  height:7.5vh;
+  width: 100%;
+}
+#num_try{
+  height: 7.5vh;
+  font-family: "Bradley Hand ITC";
+  background-color: #ff0025;
+  font-size: x-large;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
