@@ -31,8 +31,8 @@ button{
   color: red;
   height:10.5vh;
   width: 100%;
-  font-weight: bold;
-  font-size: x-large;
+  font-weight: bolder;
+  font-size: xx-large;
   font-family: "Bradley Hand ITC" , Arial, Helvetica, sans-serif;
 }
 #num_try{
